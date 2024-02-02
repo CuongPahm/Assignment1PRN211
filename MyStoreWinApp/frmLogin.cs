@@ -33,9 +33,6 @@ namespace MyStoreWinApp
             else if ((memberRepository.CheckLogin(txtEmail.Text.ToString(), txtEmail.Text.ToString()) != null))
             {
                 this.Hide();
-                this.email = ""; this.password = "";
-                this.email = txtPassword.Text.ToString();
-                this.password = txtPassword.Text.ToString();
                 frmMemberDetail detail = new frmMemberDetail();
                 detail.Show();
             }
