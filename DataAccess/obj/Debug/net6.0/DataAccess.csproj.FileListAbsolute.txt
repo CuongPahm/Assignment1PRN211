@@ -1,0 +1,15 @@
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\hnc\source\repos\Assignment1Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
